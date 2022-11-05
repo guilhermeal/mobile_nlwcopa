@@ -9,7 +9,6 @@ export function SignIn() {
 
   const { signIn, user } = useAuth();
 
-  console.log('DADOS DO USUARIOS: ',user);
   return (
     <Center 
       flex={1} 
