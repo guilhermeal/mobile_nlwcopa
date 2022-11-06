@@ -2674,6 +2674,11 @@
   "resolved" "https://registry.npmjs.org/@trysound/sax/-/sax-0.2.0.tgz"
   "version" "0.2.0"
 
+"@types/country-list@^2.1.1":
+  "integrity" "sha512-maNkQzgLbyoi5mwwAL0KCb6l5/rn02N9y/CIBf4AYPrJ0pU2AvUTQ5LOw6GA4AAPrtiL44LWiwXzybUAUUYA3Q=="
+  "resolved" "https://registry.npmjs.org/@types/country-list/-/country-list-2.1.1.tgz"
+  "version" "2.1.1"
+
 "@types/graceful-fs@^4.1.2":
   "integrity" "sha512-anKkLmZZ+xm4p8JWBf4hElkM4XR+EZeA2M9BAkkTldmcyDY4mbdIJnRghDJH3Ov5ooY7/UAoENtmdMSkaAd7Cw=="
   "resolved" "https://registry.npmjs.org/@types/graceful-fs/-/graceful-fs-4.1.5.tgz"
@@ -3008,6 +3013,13 @@
   "integrity" "sha512-poPX9mZH/5CSanm50Q+1toVci6pv5KSRv/5TWCwtzQS5XEwn40BcCrgIeMFWP9CKKIniKXNxoIOnOq4VVlGXhg=="
   "resolved" "https://registry.npmjs.org/babel-core/-/babel-core-7.0.0-bridge.0.tgz"
   "version" "7.0.0-bridge.0"
+
+"babel-plugin-inline-dotenv@^1.7.0":
+  "integrity" "sha512-FUrXEwY9R9ZO8l0NFHqXFBzHjjMvdIJlELrzJoE6imDsj6Vh7g9svm7iHPHVYPbHmt6BPB2eCAJkwvG6kr5byg=="
+  "resolved" "https://registry.npmjs.org/babel-plugin-inline-dotenv/-/babel-plugin-inline-dotenv-1.7.0.tgz"
+  "version" "1.7.0"
+  dependencies:
+    "dotenv" "^16.0.0"
 
 "babel-plugin-module-resolver@^4.1.0":
   "integrity" "sha512-MlX10UDheRr3lb3P0WcaIdtCSRlxdQsB1sBqL7W0raF070bGl1HQQq5K3T2vf2XAYie+ww+5AKC/WrkjRO2knA=="
@@ -3677,6 +3689,11 @@
     "path-type" "^4.0.0"
     "yaml" "^1.10.0"
 
+"country-list@^2.2.0":
+  "integrity" "sha512-AS21pllCp72LmUztqXPVKXK3TRyap1XlohGLqN04cXH2rFB9vo7SnH5sMnqltZPnu9ie/x1se3UuCZJbGXErfw=="
+  "resolved" "https://registry.npmjs.org/country-list/-/country-list-2.2.0.tgz"
+  "version" "2.2.0"
+
 "cross-fetch@^3.1.5":
   "integrity" "sha512-lvb1SBsI0Z7GDwmuid+mU3kWVBwTVUbe7S0H52yaaAdQOXq2YktTCZdlAcNKFzE6QtRz0snpw9bNiPeOIkkQvw=="
   "resolved" "https://registry.npmjs.org/cross-fetch/-/cross-fetch-3.1.5.tgz"
@@ -3759,7 +3776,7 @@
   "resolved" "https://registry.npmjs.org/dag-map/-/dag-map-1.0.2.tgz"
   "version" "1.0.2"
 
-"dayjs@^1.8.15":
+"dayjs@^1.11.6", "dayjs@^1.8.15":
   "integrity" "sha512-zZbY5giJAinCG+7AGaw0wIhNZ6J8AhWuSXKvuc1KAyMiRsvGQWqh4L+MomvhdAYjN+lqvVCMq1I41e3YHvXkyQ=="
   "resolved" "https://registry.npmjs.org/dayjs/-/dayjs-1.11.6.tgz"
   "version" "1.11.6"
@@ -3949,6 +3966,11 @@
     "dom-serializer" "^1.0.1"
     "domelementtype" "^2.2.0"
     "domhandler" "^4.2.0"
+
+"dotenv@^16.0.0", "dotenv@^16.0.3":
+  "integrity" "sha512-7GO6HghkA5fYG9TYnNxi14/7K9f5occMlp3zXAuSxn7CKCxt9xbNWG7yF8hTCSUchlfWSe3uLmlPfigevRItzQ=="
+  "resolved" "https://registry.npmjs.org/dotenv/-/dotenv-16.0.3.tgz"
+  "version" "16.0.3"
 
 "ee-first@1.1.1":
   "integrity" "sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow=="
@@ -6738,6 +6760,11 @@
     "flow-parser" "^0.121.0"
     "jscodeshift" "^0.13.1"
     "nullthrows" "^1.1.1"
+
+"react-native-country-flag@^1.1.9":
+  "integrity" "sha512-oNeNrx7qf04v75uhqUd9JbqHjAFaH8pSGjoXTincqkSPtwgikH5i+qScBXQUDpuH0SwXgsmgMzecphqeR4015w=="
+  "resolved" "https://registry.npmjs.org/react-native-country-flag/-/react-native-country-flag-1.1.9.tgz"
+  "version" "1.1.9"
 
 "react-native-gradle-plugin@^0.0.7":
   "integrity" "sha512-+4JpbIx42zGTONhBTIXSyfyHICHC29VTvhkkoUOJAh/XHPEixpuBduYgf6Y4y9wsN1ARlQhBBoptTvXvAFQf5g=="
