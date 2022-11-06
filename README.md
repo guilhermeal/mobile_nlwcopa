@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://github.com/guilhermeal/mobile_nlwcopa/blob/00324ae6fd9ef5a369fcb9367f8384edb1ae25ac/assets/icon.png" alt="NLW COPA" />
+  <img src="https://github.com/guilhermeal/frontend_nlwcopa/blob/6e427a98bb800e45ce2a5a1f036d2a8bc43ddafe/src/assets/app-nlw-copa-preview.png" alt="NLW COPA" />
 
   &#xa0;
 
