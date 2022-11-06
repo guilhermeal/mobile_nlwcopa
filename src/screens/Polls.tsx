@@ -1,4 +1,4 @@
-import { useEffect, useState, useCallback } from 'react';
+import { useState, useCallback } from 'react';
 import { VStack, Icon, useToast, FlatList } from 'native-base';
 import { useNavigation, useFocusEffect } from '@react-navigation/native'
 import { api } from '../services/api';
