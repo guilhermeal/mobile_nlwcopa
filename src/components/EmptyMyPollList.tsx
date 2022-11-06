@@ -4,7 +4,7 @@ interface Props {
   code: string;
 }
 
-export function EmptyMyPoolList({ code }: Props) {
+export function EmptyMyPollList({ code }: Props) {
   return (
     <Row flexWrap="wrap" justifyContent="center" p={4}>
       <Text color="gray.200" fontSize="sm">
